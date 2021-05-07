@@ -1,0 +1,75 @@
+C:\Users\bfernandes\source\repos\ProjetBiere\ProjetBiere\bin\Debug\ProjetBiere.exe.config
+C:\Users\bfernandes\source\repos\ProjetBiere\ProjetBiere\bin\Debug\ProjetBiere.exe
+C:\Users\bfernandes\source\repos\ProjetBiere\ProjetBiere\bin\Debug\ProjetBiere.pdb
+C:\Users\bfernandes\source\repos\ProjetBiere\ProjetBiere\bin\Debug\MySql.Data.dll
+C:\Users\bfernandes\source\repos\ProjetBiere\ProjetBiere\bin\Debug\Google.Protobuf.dll
+C:\Users\bfernandes\source\repos\ProjetBiere\ProjetBiere\bin\Debug\Zstandard.Net.dll
+C:\Users\bfernandes\source\repos\ProjetBiere\ProjetBiere\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\bfernandes\source\repos\ProjetBiere\ProjetBiere\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\bfernandes\source\repos\ProjetBiere\ProjetBiere\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\bfernandes\source\repos\ProjetBiere\ProjetBiere\bin\Debug\Renci.SshNet.dll
+C:\Users\bfernandes\source\repos\ProjetBiere\ProjetBiere\bin\Debug\System.Buffers.dll
+C:\Users\bfernandes\source\repos\ProjetBiere\ProjetBiere\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\bfernandes\source\repos\ProjetBiere\ProjetBiere\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\bfernandes\source\repos\ProjetBiere\ProjetBiere\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bfernandes\source\repos\ProjetBiere\ProjetBiere\bin\Debug\MySql.Data.xml
+C:\Users\bfernandes\source\repos\ProjetBiere\ProjetBiere\obj\Debug\ProjetBiere.csprojAssemblyReference.cache
+C:\Users\bfernandes\source\repos\ProjetBiere\ProjetBiere\obj\Debug\ProjetBiere.Form1.resources
+C:\Users\bfernandes\source\repos\ProjetBiere\ProjetBiere\obj\Debug\ProjetBiere.Properties.Resources.resources
+C:\Users\bfernandes\source\repos\ProjetBiere\ProjetBiere\obj\Debug\ProjetBiere.csproj.GenerateResource.cache
+C:\Users\bfernandes\source\repos\ProjetBiere\ProjetBiere\obj\Debug\ProjetBiere.csproj.CoreCompileInputs.cache
+C:\Users\bfernandes\source\repos\ProjetBiere\ProjetBiere\obj\Debug\ProjetBiere.csproj.CopyComplete
+C:\Users\bfernandes\source\repos\ProjetBiere\ProjetBiere\obj\Debug\ProjetBiere.exe
+C:\Users\bfernandes\source\repos\ProjetBiere\ProjetBiere\obj\Debug\ProjetBiere.pdb
+C:\Users\bfernandes\source\repos\ProjetBiere\ProjetBiere\obj\Debug\ProjetBiere.Form2.resources
+U:\source\repos\ProjetBiere\ProjetBiere\bin\Debug\ProjetBiere.exe.config
+U:\source\repos\ProjetBiere\ProjetBiere\bin\Debug\ProjetBiere.exe
+U:\source\repos\ProjetBiere\ProjetBiere\bin\Debug\ProjetBiere.pdb
+U:\source\repos\ProjetBiere\ProjetBiere\bin\Debug\Google.Protobuf.dll
+U:\source\repos\ProjetBiere\ProjetBiere\bin\Debug\Zstandard.Net.dll
+U:\source\repos\ProjetBiere\ProjetBiere\bin\Debug\K4os.Compression.LZ4.Streams.dll
+U:\source\repos\ProjetBiere\ProjetBiere\bin\Debug\BouncyCastle.Crypto.dll
+U:\source\repos\ProjetBiere\ProjetBiere\bin\Debug\Ubiety.Dns.Core.dll
+U:\source\repos\ProjetBiere\ProjetBiere\bin\Debug\Renci.SshNet.dll
+U:\source\repos\ProjetBiere\ProjetBiere\bin\Debug\System.Buffers.dll
+U:\source\repos\ProjetBiere\ProjetBiere\bin\Debug\K4os.Compression.LZ4.dll
+U:\source\repos\ProjetBiere\ProjetBiere\bin\Debug\K4os.Hash.xxHash.dll
+U:\source\repos\ProjetBiere\ProjetBiere\bin\Debug\System.Memory.dll
+U:\source\repos\ProjetBiere\ProjetBiere\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+U:\source\repos\ProjetBiere\ProjetBiere\bin\Debug\MySql.Data.xml
+U:\source\repos\ProjetBiere\ProjetBiere\obj\Debug\ProjetBiere.csprojAssemblyReference.cache
+U:\source\repos\ProjetBiere\ProjetBiere\obj\Debug\ProjetBiere.exe.config
+U:\source\repos\ProjetBiere\ProjetBiere\obj\Debug\ProjetBiere.Form1.resources
+U:\source\repos\ProjetBiere\ProjetBiere\obj\Debug\ProjetBiere.Form2.resources
+U:\source\repos\ProjetBiere\ProjetBiere\obj\Debug\ProjetBiere.Properties.Resources.resources
+U:\source\repos\ProjetBiere\ProjetBiere\obj\Debug\ProjetBiere.csproj.GenerateResource.cache
+U:\source\repos\ProjetBiere\ProjetBiere\obj\Debug\ProjetBiere.csproj.CoreCompileInputs.cache
+U:\source\repos\ProjetBiere\ProjetBiere\obj\Debug\ProjetBiere.csproj.CopyComplete
+U:\source\repos\ProjetBiere\ProjetBiere\obj\Debug\ProjetBiere.exe
+U:\source\repos\ProjetBiere\ProjetBiere\obj\Debug\ProjetBiere.pdb
+C:\Users\lgobeaux\Desktop\Projet biere\ProjetBiere\ProjetBiere\bin\Debug\ProjetBiere.exe.config
+C:\Users\lgobeaux\Desktop\Projet biere\ProjetBiere\ProjetBiere\bin\Debug\ProjetBiere.exe
+C:\Users\lgobeaux\Desktop\Projet biere\ProjetBiere\ProjetBiere\bin\Debug\ProjetBiere.pdb
+C:\Users\lgobeaux\Desktop\Projet biere\ProjetBiere\ProjetBiere\bin\Debug\MySql.Data.dll
+C:\Users\lgobeaux\Desktop\Projet biere\ProjetBiere\ProjetBiere\bin\Debug\Google.Protobuf.dll
+C:\Users\lgobeaux\Desktop\Projet biere\ProjetBiere\ProjetBiere\bin\Debug\Zstandard.Net.dll
+C:\Users\lgobeaux\Desktop\Projet biere\ProjetBiere\ProjetBiere\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\lgobeaux\Desktop\Projet biere\ProjetBiere\ProjetBiere\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\lgobeaux\Desktop\Projet biere\ProjetBiere\ProjetBiere\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\lgobeaux\Desktop\Projet biere\ProjetBiere\ProjetBiere\bin\Debug\Renci.SshNet.dll
+C:\Users\lgobeaux\Desktop\Projet biere\ProjetBiere\ProjetBiere\bin\Debug\System.Memory.dll
+C:\Users\lgobeaux\Desktop\Projet biere\ProjetBiere\ProjetBiere\bin\Debug\System.Buffers.dll
+C:\Users\lgobeaux\Desktop\Projet biere\ProjetBiere\ProjetBiere\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\lgobeaux\Desktop\Projet biere\ProjetBiere\ProjetBiere\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\lgobeaux\Desktop\Projet biere\ProjetBiere\ProjetBiere\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lgobeaux\Desktop\Projet biere\ProjetBiere\ProjetBiere\bin\Debug\MySql.Data.xml
+C:\Users\lgobeaux\Desktop\Projet biere\ProjetBiere\ProjetBiere\obj\Debug\ProjetBiere.csprojAssemblyReference.cache
+C:\Users\lgobeaux\Desktop\Projet biere\ProjetBiere\ProjetBiere\obj\Debug\ProjetBiere.exe.config
+C:\Users\lgobeaux\Desktop\Projet biere\ProjetBiere\ProjetBiere\obj\Debug\ProjetBiere.Form1.resources
+C:\Users\lgobeaux\Desktop\Projet biere\ProjetBiere\ProjetBiere\obj\Debug\ProjetBiere.Form2.resources
+C:\Users\lgobeaux\Desktop\Projet biere\ProjetBiere\ProjetBiere\obj\Debug\ProjetBiere.Properties.Resources.resources
+C:\Users\lgobeaux\Desktop\Projet biere\ProjetBiere\ProjetBiere\obj\Debug\ProjetBiere.csproj.GenerateResource.cache
+C:\Users\lgobeaux\Desktop\Projet biere\ProjetBiere\ProjetBiere\obj\Debug\ProjetBiere.csproj.CoreCompileInputs.cache
+C:\Users\lgobeaux\Desktop\Projet biere\ProjetBiere\ProjetBiere\obj\Debug\ProjetBiere.csproj.CopyComplete
+C:\Users\lgobeaux\Desktop\Projet biere\ProjetBiere\ProjetBiere\obj\Debug\ProjetBiere.exe
+C:\Users\lgobeaux\Desktop\Projet biere\ProjetBiere\ProjetBiere\obj\Debug\ProjetBiere.pdb
